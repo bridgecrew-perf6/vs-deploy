@@ -18,7 +18,6 @@ export default function Home() {
         
         <p className={styles.description}>
           Get started by going to the correct image {uri}
-          <code className={styles.code}>pages/index.js</code>
         </p>
 
         {/* <div className={styles.grid}>
@@ -50,7 +49,7 @@ export default function Home() {
             </p>
           </a>
         </div>
-      */}
+  */}
       </main> 
 
       <footer className={styles.footer}>
