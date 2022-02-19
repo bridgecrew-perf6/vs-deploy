@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
         
         <p className={styles.description}>
-          Get started by going to the correct image {uri}
+          Get started by going to the correct image uri
         </p>
 
         {/* <div className={styles.grid}>
